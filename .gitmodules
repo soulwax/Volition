@@ -1,0 +1,28 @@
+[submodule "Volition/vendor/spdlog"]
+	path = Volition/vendor/spdlog
+	url = git@github.com:gabime/spdlog.git
+	branch = v1.x
+[submodule "Volition/vendor/GLFW"]
+	path = Volition/vendor/GLFW
+	url = git@github.com:soulwax/glfw.git
+	branch = master
+[submodule "Volition/vendor/imgui"]
+	path = Volition/vendor/imgui
+	url = git@github.com:soulwax/imgui.git
+	branch = docking
+[submodule "Volition/vendor/glm"]
+	path = Volition/vendor/glm
+	url = git@github.com:g-truc/glm.git
+	branch = master
+[submodule "Volition/vendor/yaml-cpp"]
+	path = Volition/vendor/yaml-cpp
+	url = https://github.com/soulwax/yaml-cpp
+[submodule "Volition/vendor/ImGuizmo"]
+	path = Volition/vendor/ImGuizmo
+	url = https://github.com/soulwax/ImGuizmo/
+[submodule "Volition/vendor/Box2D"]
+	path = Volition/vendor/Box2D
+	url = https://github.com/soulwax/box2d
+[submodule "Volition/vendor/msdf-atlas-gen"]
+	path = Volition/vendor/msdf-atlas-gen
+	url = https://github.com/soulwax/msdf-atlas-gen
