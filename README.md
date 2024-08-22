@@ -5,6 +5,13 @@
 Volition is primarily an early-stage interactive application and rendering engine for Windows.
 ***
 
+## Short description of components
+
+`Volition` contains the core engine
+`Volition-ScriptCore` contains the scripting language logic for the Volition core engine
+`Spine` is the frontend gui employing and tying togetherthe aforementioned modules.
+`Sandbox` is what `Spine` used to be, but with no gui, and it does not use `-ScriptCore` but games can be programmed using the full engine capabilities purely programmatically.
+
 ## Getting Started
 
 Visual Studio 2017, 2019 or 2022 is recommended (tested and developed with Visual Studio 2022) Volition is officially untested on other development environments whilst I focus on a Windows build.
